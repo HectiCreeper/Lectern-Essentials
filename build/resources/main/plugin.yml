@@ -1,0 +1,6 @@
+name: LecternEssentials
+version: '1.0'
+main: me.creeper39x.lecternessentials.LecternEssentials
+api-version: '1.20'
+authors: [HectiCreeper, Creeper39x]
+website: https://hecticreeper.webflow.io/
